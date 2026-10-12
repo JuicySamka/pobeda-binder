@@ -24,7 +24,7 @@
 
 ## 📥 Установка
 
-1. Скачай **[Pobeda_Binder_Setup.exe](https://github.com/Lshkka/pobeda-binder/releases/latest/download/Pobeda_Binder_Setup.exe)**
+1. Скачай **[Pobeda_Binder_Setup.exe](https://github.com/Lshkka/pobeda-binder/releases/latest/download/Pobeda_Binder_Setup_1.0.0.exe)**
 2. Запусти установщик и следуй подсказкам. AutoHotkey v2 установится автоматически, если его ещё нет
 3. Открой биндер ярлыком на рабочем столе или в меню «Пуск»
 
