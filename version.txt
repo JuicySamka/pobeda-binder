@@ -1,0 +1,3 @@
+1.0.0
+https://github.com/Lshkka/pobeda-binder/releases/latest/download/Pobeda_Binder_Setup.exe
+Первая версия
