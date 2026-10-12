@@ -57,6 +57,6 @@ by JuicySamka 💙
 
 - Неофициальный проект для игры Roblox. Не связан с авиакомпанией «Победа» и не является её продуктом.
 - Использует [AutoHotkey v2](https://www.autohotkey.com/), он устанавливается автоматически.
-- Эмодзи: [Twemoji](https://github.com/jdecked/twemoji), © Twitter, Inc. и контрибьюторы, лицензия [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- Изображения эмодзи принадлежат Apple Inc., используются в некоммерческом проекте и не входят в лицензию программы.
 
 </div>
