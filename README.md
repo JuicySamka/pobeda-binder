@@ -47,6 +47,6 @@
 
 <div align="center">
 
-Сделано с 💙 by JuicySamka
+by JuicySamka 💙
 
 </div>
